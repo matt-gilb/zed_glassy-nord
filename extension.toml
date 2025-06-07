@@ -2,6 +2,6 @@ id = "glassy_nord"
 name = "Glassy Nord theme"
 version = "0.0.1"
 schema_version = 1
-authors = ["Matt Gilbert<hello+zed@mattgilbert.co>"]
+authors = ["Matt Gilbert <hello+zed@mattgilbert.co>"]
 description = "A transparent Nord theme for Zed text editor"
 repository = "https://github.com/matt-gilb/zed_glassy-nord.git"
